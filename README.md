@@ -1,0 +1,2 @@
+# SnaikServer
+Server for Snaik
